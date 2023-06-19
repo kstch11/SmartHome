@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"config"},{"l":"factories"},{"l":"house"},{"l":"house.commands"},{"l":"house.devices"},{"l":"house.devices.states"},{"l":"households"},{"l":"households.animals"},{"l":"households.people"},{"l":"report"},{"l":"resources"}];updateSearchResults();

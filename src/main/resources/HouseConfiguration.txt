@@ -1,0 +1,49 @@
+In the house with address 13 South Trenton Street there are 2 floors
+
+On the First floor there are 6 rooms:
+In the Garage are:
+Bicycle, Car, Ski
+
+In the Kitchen are:
+Fridge, Cooker, TV
+
+In the Living room are:
+PetToy, TV
+
+In the Pets' room are:
+PetToy, PetToy, PetFeeder, PetFeeder
+
+In the Bathroom1 are:
+VacuumCleaner, SmartBath
+
+In the Guestroom are:
+Treadmill, TV
+
+On the Second floor there are 4 rooms:
+In the Children's bedroom are:
+Computer, VacuumCleaner, Bicycle
+
+In the Children's bedroom are:
+Computer, VacuumCleaner, Bicycle
+
+In the Bathroom2 are:
+SmartBath, VacuumCleaner, PetToy
+
+In the Grandparents' bedroom are:
+TV
+
+
+People:
+Mom is 40 years old
+Dad is 40 years old
+Granny is 68 years old
+Grandpa is 71 years old
+Kate is 9 years old
+Tom is 7 years old
+Fillip is 11 years old
+
+Animals:
+Murzik is 3 years old
+Murka is 1 years old
+Bobik is 2 years old
+Lizard is 1 years old

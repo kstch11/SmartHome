@@ -1,0 +1,2856 @@
+_____________________ Tick 238 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 237 _____________________
+Mom is talking with Mom
+Dad is using BICYCLE
+Granny is using SKI
+Grandpa is playing with Murzik
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 236 _____________________
+Mom is talking with Mom
+Dad is using BICYCLE
+Granny is using SKI
+Grandpa is playing with Murzik
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 235 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is using SKI
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 234 _____________________
+Mom is using TREADMILL
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is playing with Murzik
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 233 _____________________
+Mom is using TREADMILL
+Dad is repairing BICYCLE
+Granny is using FRIDGE
+Grandpa is playing with Murzik
+Kate is waiting for activity
+Tom is using CAR
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 232 _____________________
+Mom is using TREADMILL
+Dad is waiting for activity
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is using VACUUM_CLEANER
+Tom is using CAR
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 231 _____________________
+Mom is using TREADMILL
+Dad is using SMART_BATH
+Granny is waiting for activity
+Grandpa is playing with Murzik
+Kate is using VACUUM_CLEANER
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 230 _____________________
+Mom is waiting for activity
+Dad is using SMART_BATH
+Granny is repairing TV
+Grandpa is playing with Murzik
+Kate is using VACUUM_CLEANER
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 229 _____________________
+Mom is using SKI
+Dad is using SMART_BATH
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is using VACUUM_CLEANER
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 228 _____________________
+Mom is using SKI
+Dad is using SMART_BATH
+Granny is repairing TV
+Grandpa is using TREADMILL
+Kate is using VACUUM_CLEANER
+Tom is using BICYCLE
+Fillip is using BICYCLE
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 227 _____________________
+Mom is using SKI
+Dad is using SMART_BATH
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using VACUUM_CLEANER
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 226 _____________________
+Mom is waiting for activity
+Dad is using SMART_BATH
+Granny is repairing TV
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 225 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is talking with Tom
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 224 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is talking with Tom
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 223 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 222 _____________________
+Mom is waiting for activity
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 221 _____________________
+Mom is repairing PET_TOY
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is using FRIDGE
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 220 _____________________
+Mom is waiting for activity
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is using FRIDGE
+Tom is using TREADMILL
+Fillip is using BICYCLE
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 219 _____________________
+Mom is using COOKER
+Dad is using CAR
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using BICYCLE
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 218 _____________________
+Mom is using COOKER
+Dad is waiting for activity
+Granny is repairing TREADMILL
+Grandpa is using SKI
+Kate is talking with Kate
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 217 _____________________
+Mom is using COOKER
+Dad is repairing TV
+Granny is repairing TREADMILL
+Grandpa is using SKI
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 216 _____________________
+Mom is using COOKER
+Dad is repairing TV
+Granny is waiting for activity
+Grandpa is using SKI
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 215 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is repairing BICYCLE
+Grandpa is waiting for activity
+Kate is playing with Lizard
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 214 _____________________
+Mom is repairing SKI
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is playing with Lizard
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 213 _____________________
+Mom is waiting for activity
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 212 _____________________
+Mom is using SKI
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is using FRIDGE
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 211 _____________________
+Mom is using SKI
+Dad is using CAR
+Granny is using BICYCLE
+Grandpa is using TREADMILL
+Kate is using FRIDGE
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 210 _____________________
+Mom is using SKI
+Dad is using CAR
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 209 _____________________
+Mom is waiting for activity
+Dad is using CAR
+Granny is repairing TV
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is talking with Kate
+Fillip is using BICYCLE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is waiting for activity
+_____________________ Tick 208 _____________________
+Mom is using SKI
+Dad is using CAR
+Granny is repairing TV
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is talking with Kate
+Fillip is using BICYCLE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 207 _____________________
+Mom is using SKI
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 206 _____________________
+Mom is using SKI
+Dad is repairing PET_FEEDER
+Granny is waiting for activity
+Grandpa is repairing PET_TOY
+Kate is talking with Kate
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 205 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using CAR
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 204 _____________________
+Mom is repairing PET_TOY
+Dad is playing with Lizard
+Granny is repairing TV
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is using CAR
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 203 _____________________
+Mom is waiting for activity
+Dad is playing with Lizard
+Granny is repairing TV
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 202 _____________________
+Mom is talking with Mom
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 201 _____________________
+Mom is talking with Mom
+Dad is using BICYCLE
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 200 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is using FRIDGE
+Grandpa is repairing TV
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 199 _____________________
+Mom is repairing PET_TOY
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is repairing TV
+Kate is using CAR
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_FEEDER
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 198 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using SKI
+Grandpa is repairing TV
+Kate is using CAR
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 197 _____________________
+Mom is repairing PET_TOY
+Dad is playing with Bobik
+Granny is using SKI
+Grandpa is waiting for activity
+Kate is using CAR
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 196 _____________________
+Mom is waiting for activity
+Dad is playing with Bobik
+Granny is using SKI
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 195 _____________________
+Mom is talking with Mom
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 194 _____________________
+Mom is talking with Mom
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 193 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 192 _____________________
+Mom is repairing PET_TOY
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 191 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is talking with Tom
+Fillip is using FRIDGE
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 190 _____________________
+Mom is using BICYCLE
+Dad is playing with Murzik
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is talking with Tom
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 189 _____________________
+Mom is using BICYCLE
+Dad is playing with Murzik
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 188 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using FRIDGE
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 187 _____________________
+Mom is waiting for activity
+Dad is using COOKER
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using FRIDGE
+Fillip is using SKI
+Murzik is using COMPUTER
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 186 _____________________
+Mom is repairing TV
+Dad is using COOKER
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using COMPUTER
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 185 _____________________
+Mom is repairing TV
+Dad is using COOKER
+Granny is talking with Granny
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is using FRIDGE
+Murzik is using COMPUTER
+Murka is using TV
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 184 _____________________
+Mom is repairing TV
+Dad is using COOKER
+Granny is talking with Granny
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using CAR
+Fillip is using FRIDGE
+Murzik is using COMPUTER
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 183 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is using COMPUTER
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 182 _____________________
+Mom is repairing TV
+Dad is repairing PET_TOY
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is using COMPUTER
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 181 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 180 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 179 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is using FRIDGE
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 178 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is using FRIDGE
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 177 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 176 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is using TREADMILL
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 175 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is using TREADMILL
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_FEEDER
+Lizard is waiting for activity
+_____________________ Tick 174 _____________________
+Mom is repairing PET_TOY
+Dad is using BICYCLE
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is using COOKER
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 173 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is using SKI
+Kate is using COOKER
+Tom is talking with Tom
+Fillip is using CAR
+Murzik is using PET_FEEDER
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 172 _____________________
+Mom is using FRIDGE
+Dad is using TV
+Granny is waiting for activity
+Grandpa is using SKI
+Kate is using COOKER
+Tom is talking with Tom
+Fillip is using CAR
+Murzik is using PET_FEEDER
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 171 _____________________
+Mom is using FRIDGE
+Dad is using TV
+Granny is using BICYCLE
+Grandpa is using SKI
+Kate is using COOKER
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 170 _____________________
+Mom is waiting for activity
+Dad is using TV
+Granny is using BICYCLE
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 169 _____________________
+Mom is repairing PET_FEEDER
+Dad is using TV
+Granny is using BICYCLE
+Grandpa is talking with Grandpa
+Kate is talking with Kate
+Tom is talking with Tom
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 168 _____________________
+Mom is waiting for activity
+Dad is using TV
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is talking with Kate
+Tom is talking with Tom
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 167 _____________________
+Mom is using BICYCLE
+Dad is using TV
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 166 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is repairing PET_TOY
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 165 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 164 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is talking with Grandpa
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 163 _____________________
+Mom is talking with Mom
+Dad is using SKI
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 162 _____________________
+Mom is talking with Mom
+Dad is waiting for activity
+Granny is talking with Granny
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 161 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is talking with Granny
+Grandpa is using FRIDGE
+Kate is using BICYCLE
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 160 _____________________
+Mom is using COOKER
+Dad is repairing TV
+Granny is waiting for activity
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is using CAR
+Fillip is using VACUUM_CLEANER
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 159 _____________________
+Mom is using COOKER
+Dad is repairing TV
+Granny is using SMART_BATH
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using CAR
+Fillip is using VACUUM_CLEANER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 158 _____________________
+Mom is using COOKER
+Dad is waiting for activity
+Granny is using SMART_BATH
+Grandpa is using BICYCLE
+Kate is talking with Kate
+Tom is using CAR
+Fillip is using VACUUM_CLEANER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 157 _____________________
+Mom is using COOKER
+Dad is using SKI
+Granny is using SMART_BATH
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is using CAR
+Fillip is using VACUUM_CLEANER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 156 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is using SMART_BATH
+Grandpa is using BICYCLE
+Kate is using FRIDGE
+Tom is waiting for activity
+Fillip is using VACUUM_CLEANER
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 155 _____________________
+Mom is repairing PET_TOY
+Dad is using SKI
+Granny is using SMART_BATH
+Grandpa is waiting for activity
+Kate is using FRIDGE
+Tom is waiting for activity
+Fillip is using VACUUM_CLEANER
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 154 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using SMART_BATH
+Grandpa is repairing PET_TOY
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_FEEDER
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 153 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 152 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is repairing PET_FEEDER
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 151 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 150 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is playing with Bobik
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 149 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is playing with Bobik
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 148 _____________________
+Mom is using SKI
+Dad is talking with Dad
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 147 _____________________
+Mom is using SKI
+Dad is talking with Dad
+Granny is playing with Murzik
+Grandpa is talking with Grandpa
+Kate is using BICYCLE
+Tom is playing with Bobik
+Fillip is talking with Fillip
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 146 _____________________
+Mom is using SKI
+Dad is waiting for activity
+Granny is playing with Murzik
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is playing with Bobik
+Fillip is talking with Fillip
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 145 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is waiting for activity
+Grandpa is repairing TV
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 144 _____________________
+Mom is using SKI
+Dad is repairing TV
+Granny is using CAR
+Grandpa is repairing TV
+Kate is using BICYCLE
+Tom is using FRIDGE
+Fillip is talking with Fillip
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 143 _____________________
+Mom is using SKI
+Dad is repairing TV
+Granny is using CAR
+Grandpa is repairing TV
+Kate is using BICYCLE
+Tom is using FRIDGE
+Fillip is talking with Fillip
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 142 _____________________
+Mom is using SKI
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 141 _____________________
+Mom is waiting for activity
+Dad is repairing PET_TOY
+Granny is using CAR
+Grandpa is using FRIDGE
+Kate is playing with Murka
+Tom is playing with Bobik
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 140 _____________________
+Mom is playing with Murzik
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is using FRIDGE
+Kate is playing with Murka
+Tom is playing with Bobik
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 139 _____________________
+Mom is playing with Murzik
+Dad is using COOKER
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 138 _____________________
+Mom is waiting for activity
+Dad is using COOKER
+Granny is waiting for activity
+Grandpa is using SKI
+Kate is using FRIDGE
+Tom is using TV
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 137 _____________________
+Mom is playing with Murzik
+Dad is using COOKER
+Granny is talking with Granny
+Grandpa is using SKI
+Kate is using FRIDGE
+Tom is using TV
+Fillip is playing with Lizard
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 136 _____________________
+Mom is playing with Murzik
+Dad is using COOKER
+Granny is talking with Granny
+Grandpa is using SKI
+Kate is waiting for activity
+Tom is using TV
+Fillip is playing with Lizard
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 135 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using CAR
+Tom is using TV
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 134 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using TV
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 133 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using TV
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 132 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 131 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is using CAR
+Tom is talking with Tom
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 130 _____________________
+Mom is repairing PET_TOY
+Dad is repairing SKI
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is talking with Tom
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_FEEDER
+_____________________ Tick 129 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is talking with Granny
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is waiting for activity
+_____________________ Tick 128 _____________________
+Mom is using CAR
+Dad is talking with Dad
+Granny is talking with Granny
+Grandpa is using BICYCLE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 127 _____________________
+Mom is using CAR
+Dad is talking with Dad
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 126 _____________________
+Mom is using CAR
+Dad is waiting for activity
+Granny is repairing PET_FEEDER
+Grandpa is talking with Grandpa
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is talking with Fillip
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 125 _____________________
+Mom is using CAR
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is talking with Fillip
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 124 _____________________
+Mom is using CAR
+Dad is using BICYCLE
+Granny is repairing PET_FEEDER
+Grandpa is waiting for activity
+Kate is using FRIDGE
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 123 _____________________
+Mom is using CAR
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is using FRIDGE
+Tom is using COOKER
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 122 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is talking with Grandpa
+Kate is waiting for activity
+Tom is using COOKER
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 121 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using COOKER
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 120 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using COOKER
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 119 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is using TREADMILL
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using BICYCLE
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 118 _____________________
+Mom is waiting for activity
+Dad is using CAR
+Granny is waiting for activity
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using BICYCLE
+Fillip is using BICYCLE
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 117 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using BICYCLE
+Fillip is using BICYCLE
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 116 _____________________
+Mom is repairing TV
+Dad is using CAR
+Granny is using TREADMILL
+Grandpa is using TREADMILL
+Kate is using SKI
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 115 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 114 _____________________
+Mom is waiting for activity
+Dad is playing with Murka
+Granny is using TREADMILL
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using SKI
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 113 _____________________
+Mom is using BICYCLE
+Dad is playing with Murka
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using SKI
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 112 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is using SKI
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 111 _____________________
+Mom is using BICYCLE
+Dad is using FRIDGE
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 110 _____________________
+Mom is waiting for activity
+Dad is using FRIDGE
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 109 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 108 _____________________
+Mom is repairing TV
+Dad is talking with Dad
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 107 _____________________
+Mom is repairing TV
+Dad is talking with Dad
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 106 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is repairing PET_TOY
+Kate is using FRIDGE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 105 _____________________
+Mom is using BICYCLE
+Dad is talking with Dad
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is using FRIDGE
+Tom is talking with Tom
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 104 _____________________
+Mom is using BICYCLE
+Dad is talking with Dad
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is talking with Tom
+Fillip is using SKI
+Murzik is using TV
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 103 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is playing with Murka
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 102 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is playing with Murka
+Tom is using SKI
+Fillip is using CAR
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 101 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using SKI
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 100 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is repairing TV
+Grandpa is talking with Grandpa
+Kate is using TREADMILL
+Tom is using SKI
+Fillip is using CAR
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 99 _____________________
+Mom is repairing TV
+Dad is using BICYCLE
+Granny is repairing TV
+Grandpa is talking with Grandpa
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 98 _____________________
+Mom is repairing TV
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is using SKI
+Fillip is using CAR
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 97 _____________________
+Mom is waiting for activity
+Dad is using FRIDGE
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using SKI
+Fillip is using CAR
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 96 _____________________
+Mom is repairing PET_TOY
+Dad is using FRIDGE
+Granny is using BICYCLE
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is using SKI
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 95 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is using BICYCLE
+Kate is playing with Bobik
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 94 _____________________
+Mom is talking with Mom
+Dad is using SKI
+Granny is using BICYCLE
+Grandpa is waiting for activity
+Kate is playing with Bobik
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 93 _____________________
+Mom is talking with Mom
+Dad is using SKI
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 92 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is playing with Murka
+Tom is using TREADMILL
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 91 _____________________
+Mom is using FRIDGE
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is playing with Murka
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 90 _____________________
+Mom is using FRIDGE
+Dad is using SKI
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 89 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 88 _____________________
+Mom is using FRIDGE
+Dad is using SKI
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 87 _____________________
+Mom is using FRIDGE
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 86 _____________________
+Mom is waiting for activity
+Dad is repairing SKI
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 85 _____________________
+Mom is playing with Murzik
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using FRIDGE
+Fillip is playing with Murka
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 84 _____________________
+Mom is playing with Murzik
+Dad is repairing PET_TOY
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is talking with Kate
+Tom is using FRIDGE
+Fillip is playing with Murka
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 83 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is talking with Kate
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 82 _____________________
+Mom is using SKI
+Dad is using TREADMILL
+Granny is using BICYCLE
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using FRIDGE
+Fillip is playing with Murzik
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 81 _____________________
+Mom is using SKI
+Dad is using TREADMILL
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is using FRIDGE
+Fillip is playing with Murzik
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 80 _____________________
+Mom is using SKI
+Dad is using TREADMILL
+Granny is using BICYCLE
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 79 _____________________
+Mom is waiting for activity
+Dad is using TREADMILL
+Granny is using BICYCLE
+Grandpa is playing with Murzik
+Kate is using BICYCLE
+Tom is using CAR
+Fillip is talking with Fillip
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 78 _____________________
+Mom is talking with Mom
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is playing with Murzik
+Kate is waiting for activity
+Tom is using CAR
+Fillip is talking with Fillip
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 77 _____________________
+Mom is talking with Mom
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using CAR
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 76 _____________________
+Mom is waiting for activity
+Dad is playing with Murzik
+Granny is using BICYCLE
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 75 _____________________
+Mom is repairing PET_TOY
+Dad is playing with Murzik
+Granny is using BICYCLE
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 74 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using BICYCLE
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using CAR
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 73 _____________________
+Mom is playing with Murzik
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 72 _____________________
+Mom is playing with Murzik
+Dad is using BICYCLE
+Granny is talking with Granny
+Grandpa is using FRIDGE
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 71 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is talking with Granny
+Grandpa is waiting for activity
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 70 _____________________
+Mom is playing with Murzik
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is talking with Grandpa
+Kate is talking with Kate
+Tom is using BICYCLE
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 69 _____________________
+Mom is playing with Murzik
+Dad is talking with Dad
+Granny is using SKI
+Grandpa is talking with Grandpa
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 68 _____________________
+Mom is waiting for activity
+Dad is talking with Dad
+Granny is using SKI
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 67 _____________________
+Mom is repairing BICYCLE
+Dad is waiting for activity
+Granny is using SKI
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 66 _____________________
+Mom is waiting for activity
+Dad is using FRIDGE
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 65 _____________________
+Mom is using BICYCLE
+Dad is using FRIDGE
+Granny is using SKI
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 64 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is using SKI
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 63 _____________________
+Mom is using BICYCLE
+Dad is repairing PET_TOY
+Granny is using SKI
+Grandpa is waiting for activity
+Kate is playing with Murzik
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 62 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is playing with Murzik
+Tom is using BICYCLE
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 61 _____________________
+Mom is using BICYCLE
+Dad is using FRIDGE
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 60 _____________________
+Mom is using BICYCLE
+Dad is using FRIDGE
+Granny is repairing TV
+Grandpa is using TREADMILL
+Kate is playing with Murzik
+Tom is using BICYCLE
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 59 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is using TREADMILL
+Kate is playing with Murzik
+Tom is waiting for activity
+Fillip is using CAR
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 58 _____________________
+Mom is waiting for activity
+Dad is repairing BICYCLE
+Granny is repairing TV
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 57 _____________________
+Mom is repairing PET_TOY
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using FRIDGE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 56 _____________________
+Mom is waiting for activity
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is using FRIDGE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 55 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is using BICYCLE
+Kate is using CAR
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 54 _____________________
+Mom is using BICYCLE
+Dad is using SKI
+Granny is using TREADMILL
+Grandpa is waiting for activity
+Kate is using CAR
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 53 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is using TREADMILL
+Grandpa is repairing TV
+Kate is using CAR
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 52 _____________________
+Mom is waiting for activity
+Dad is using FRIDGE
+Granny is waiting for activity
+Grandpa is repairing TV
+Kate is using CAR
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 51 _____________________
+Mom is using TV
+Dad is using FRIDGE
+Granny is using TV
+Grandpa is repairing TV
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 50 _____________________
+Mom is using TV
+Dad is waiting for activity
+Granny is using TV
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 49 _____________________
+Mom is using TV
+Dad is using SKI
+Granny is using TV
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 48 _____________________
+Mom is using TV
+Dad is using SKI
+Granny is using TV
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 47 _____________________
+Mom is using TV
+Dad is using SKI
+Granny is using TV
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using COMPUTER
+_____________________ Tick 46 _____________________
+Mom is using TV
+Dad is waiting for activity
+Granny is using TV
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is using TV
+Bobik is using TV
+Lizard is using COMPUTER
+_____________________ Tick 45 _____________________
+Mom is waiting for activity
+Dad is repairing PET_FEEDER
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using TV
+Lizard is using COMPUTER
+_____________________ Tick 44 _____________________
+Mom is repairing PET_TOY
+Dad is waiting for activity
+Granny is repairing PET_TOY
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using TV
+Lizard is using COMPUTER
+_____________________ Tick 43 _____________________
+Mom is waiting for activity
+Dad is using TREADMILL
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is using BICYCLE
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using COMPUTER
+_____________________ Tick 42 _____________________
+Mom is repairing PET_TOY
+Dad is using TREADMILL
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is using BICYCLE
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using COMPUTER
+_____________________ Tick 41 _____________________
+Mom is waiting for activity
+Dad is using TREADMILL
+Granny is repairing TV
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 40 _____________________
+Mom is playing with Lizard
+Dad is using TREADMILL
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 39 _____________________
+Mom is playing with Lizard
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 38 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is repairing PET_TOY
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 37 _____________________
+Mom is using BICYCLE
+Dad is repairing TV
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using PET_FEEDER
+_____________________ Tick 36 _____________________
+Mom is using BICYCLE
+Dad is repairing TV
+Granny is talking with Granny
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is using SKI
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_FEEDER
+_____________________ Tick 35 _____________________
+Mom is using BICYCLE
+Dad is waiting for activity
+Granny is talking with Granny
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using TREADMILL
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity
+_____________________ Tick 34 _____________________
+Mom is waiting for activity
+Dad is repairing PET_TOY
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using PET_FEEDER
+Murka is using PET_FEEDER
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 33 _____________________
+Mom is repairing PET_TOY
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is using TREADMILL
+Fillip is waiting for activity
+Murzik is using PET_FEEDER
+Murka is using PET_FEEDER
+Bobik is using PET_TOY
+Lizard is using PET_TOY
+_____________________ Tick 32 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 31 _____________________
+Mom is talking with Mom
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is using FRIDGE
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 30 _____________________
+Mom is talking with Mom
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is using SKI
+Tom is using TREADMILL
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 29 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is repairing FRIDGE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 28 _____________________
+Mom is repairing TREADMILL
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is repairing FRIDGE
+Kate is talking with Dad
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 27 _____________________
+Mom is repairing TREADMILL
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is talking with Dad
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 26 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is repairing COOKER
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is using BICYCLE
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 25 _____________________
+Mom is waiting for activity
+Dad is talking with Mom
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 24 _____________________
+Mom is waiting for activity
+Dad is talking with Mom
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 23 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is waiting for activity
+_____________________ Tick 22 _____________________
+Mom is repairing SKI
+Dad is using BICYCLE
+Granny is repairing TV
+Grandpa is using CAR
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 21 _____________________
+Mom is waiting for activity
+Dad is using BICYCLE
+Granny is waiting for activity
+Grandpa is using CAR
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using FRIDGE
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 20 _____________________
+Mom is repairing PET_FEEDER
+Dad is using BICYCLE
+Granny is repairing SKI
+Grandpa is waiting for activity
+Kate is using BICYCLE
+Tom is using COOKER
+Fillip is waiting for activity
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_FEEDER
+Lizard is using PET_TOY
+_____________________ Tick 19 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using COOKER
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is waiting for activity
+_____________________ Tick 18 _____________________
+Mom is playing with Bobik
+Dad is talking with Dad
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is using BICYCLE
+Tom is using COOKER
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 17 _____________________
+Mom is playing with Bobik
+Dad is talking with Dad
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is waiting for activity
+Tom is using COOKER
+Fillip is using TREADMILL
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 16 _____________________
+Mom is waiting for activity
+Dad is waiting for activity
+Granny is using CAR
+Grandpa is using TREADMILL
+Kate is using FRIDGE
+Tom is waiting for activity
+Fillip is using TREADMILL
+Murzik is waiting for activity
+Murka is using TV
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 15 _____________________
+Mom is using COOKER
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is waiting for activity
+Kate is using FRIDGE
+Tom is using VACUUM_CLEANER
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 14 _____________________
+Mom is using COOKER
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is repairing TREADMILL
+Kate is waiting for activity
+Tom is using VACUUM_CLEANER
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using TV
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 13 _____________________
+Mom is using COOKER
+Dad is using BICYCLE
+Granny is using CAR
+Grandpa is repairing TREADMILL
+Kate is using TREADMILL
+Tom is using VACUUM_CLEANER
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is using TV
+Lizard is using TV
+_____________________ Tick 12 _____________________
+Mom is using COOKER
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is using VACUUM_CLEANER
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is waiting for activity
+_____________________ Tick 11 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is repairing TV
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using VACUUM_CLEANER
+Fillip is waiting for activity
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 10 _____________________
+Mom is waiting for activity
+Dad is repairing TV
+Granny is repairing TV
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using VACUUM_CLEANER
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is using PET_TOY
+Bobik is using TV
+Lizard is using PET_TOY
+_____________________ Tick 9 _____________________
+Mom is using CAR
+Dad is repairing TV
+Granny is repairing TV
+Grandpa is using BICYCLE
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is using PET_TOY
+Murka is waiting for activity
+Bobik is waiting for activity
+Lizard is using PET_TOY
+_____________________ Tick 8 _____________________
+Mom is using CAR
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is waiting for activity
+Fillip is using SKI
+Murzik is waiting for activity
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is waiting for activity
+_____________________ Tick 7 _____________________
+Mom is using CAR
+Dad is repairing TV
+Granny is using FRIDGE
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_FEEDER
+Lizard is using TV
+_____________________ Tick 6 _____________________
+Mom is using CAR
+Dad is repairing TV
+Granny is using FRIDGE
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 5 _____________________
+Mom is using CAR
+Dad is repairing TV
+Granny is waiting for activity
+Grandpa is using BICYCLE
+Kate is using TREADMILL
+Tom is using BICYCLE
+Fillip is using COOKER
+Murzik is using TV
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 4 _____________________
+Mom is using CAR
+Dad is waiting for activity
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is using COOKER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 3 _____________________
+Mom is waiting for activity
+Dad is repairing BICYCLE
+Granny is using FRIDGE
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is talking with Grandpa
+Fillip is using COOKER
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is using PET_TOY
+Lizard is using TV
+_____________________ Tick 2 _____________________
+Mom is using CAR
+Dad is waiting for activity
+Granny is waiting for activity
+Grandpa is waiting for activity
+Kate is waiting for activity
+Tom is talking with Grandpa
+Fillip is waiting for activity
+Murzik is using TV
+Murka is using PET_TOY
+Bobik is waiting for activity
+Lizard is using TV
+_____________________ Tick 1 _____________________
+Mom is using CAR
+Dad is using BICYCLE
+Granny is using SKI
+Grandpa is waiting for activity
+Kate is using TREADMILL
+Tom is waiting for activity
+Fillip is talking with Fillip
+Murzik is waiting for activity
+Murka is waiting for activity
+Bobik is using PET_TOY
+Lizard is waiting for activity

@@ -1,0 +1,142 @@
+_____________________ Day 4 _____________________
+All electricity consumed by day 226
+Bicycle was used 8 times and was broken for 2 times.
+Car has consumed 50 electricity today. Car was used 5 times and was broken for 0 times.
+Ski was used 7 times and was broken for 1 times.
+Fridge has consumed 30 electricity today. Fridge was used 6 times and was broken for 0 times.
+Cooker has consumed 10 electricity today. Cooker was used 2 times and was broken for 0 times.
+TV has consumed 33 electricity today. TV was used 3 times and was broken for 3 times.
+PetToy has consumed 18 electricity today. PetToy was used 9 times and was broken for 1 times.
+TV has consumed 23 electricity today. TV was used 2 times and was broken for 3 times.
+PetToy has consumed 16 electricity today. PetToy was used 8 times and was broken for 2 times.
+PetToy has consumed 10 electricity today. PetToy was used 5 times and was broken for 1 times.
+PetFeeder has consumed 9 electricity today. PetFeeder was used 3 times and was broken for 1 times.
+PetFeeder has consumed 6 electricity today. PetFeeder was used 2 times and was broken for 0 times.
+VacuumCleaner has consumed 5 electricity today. VacuumCleaner was used 1 times and was broken for 0 times.
+SmartBath has consumed 5 electricity today. SmartBath was used 1 times and was broken for 0 times.
+Treadmill was used 5 times and was broken for 1 times.
+TV has consumed 11 electricity today. TV was used 1 times and was broken for 1 times.
+Computer has consumed 0 electricity today. Computer was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+Bicycle was used 6 times and was broken for 0 times.
+Treadmill was used 3 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+PetToy has consumed 0 electricity today. PetToy was used 0 times and was broken for 0 times.
+_____________________ Day 3 _____________________
+All electricity consumed by day 308
+Bicycle was used 19 times and was broken for 0 times.
+Car has consumed 40 electricity today. Car was used 9 times and was broken for 0 times.
+Ski was used 17 times and was broken for 0 times.
+Fridge has consumed 45 electricity today. Fridge was used 15 times and was broken for 0 times.
+Cooker has consumed 15 electricity today. Cooker was used 5 times and was broken for 0 times.
+TV has consumed 52 electricity today. TV was used 8 times and was broken for 2 times.
+PetToy has consumed 20 electricity today. PetToy was used 19 times and was broken for 2 times.
+TV has consumed 42 electricity today. TV was used 6 times and was broken for 2 times.
+PetToy has consumed 14 electricity today. PetToy was used 15 times and was broken for 3 times.
+PetToy has consumed 14 electricity today. PetToy was used 12 times and was broken for 2 times.
+PetFeeder has consumed 12 electricity today. PetFeeder was used 7 times and was broken for 1 times.
+PetFeeder has consumed 6 electricity today. PetFeeder was used 4 times and was broken for 1 times.
+VacuumCleaner has consumed 5 electricity today. VacuumCleaner was used 2 times and was broken for 0 times.
+SmartBath has consumed 5 electricity today. SmartBath was used 2 times and was broken for 0 times.
+Treadmill was used 12 times and was broken for 0 times.
+TV has consumed 22 electricity today. TV was used 3 times and was broken for 2 times.
+Computer has consumed 7 electricity today. Computer was used 1 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+Bicycle was used 10 times and was broken for 0 times.
+Treadmill was used 7 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+PetToy has consumed 2 electricity today. PetToy was used 1 times and was broken for 0 times.
+_____________________ Day 2 _____________________
+All electricity consumed by day 267
+Bicycle was used 29 times and was broken for 0 times.
+Car has consumed 60 electricity today. Car was used 15 times and was broken for 0 times.
+Ski was used 27 times and was broken for 1 times.
+Fridge has consumed 45 electricity today. Fridge was used 24 times and was broken for 0 times.
+Cooker has consumed 10 electricity today. Cooker was used 7 times and was broken for 0 times.
+TV has consumed 34 electricity today. TV was used 11 times and was broken for 4 times.
+PetToy has consumed 20 electricity today. PetToy was used 29 times and was broken for 3 times.
+TV has consumed 22 electricity today. TV was used 8 times and was broken for 2 times.
+PetToy has consumed 20 electricity today. PetToy was used 25 times and was broken for 0 times.
+PetToy has consumed 20 electricity today. PetToy was used 22 times and was broken for 0 times.
+PetFeeder has consumed 12 electricity today. PetFeeder was used 11 times and was broken for 0 times.
+PetFeeder has consumed 3 electricity today. PetFeeder was used 5 times and was broken for 2 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 2 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 2 times and was broken for 0 times.
+Treadmill was used 19 times and was broken for 0 times.
+TV has consumed 21 electricity today. TV was used 5 times and was broken for 1 times.
+Computer has consumed 0 electricity today. Computer was used 1 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+Bicycle was used 14 times and was broken for 0 times.
+Treadmill was used 10 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+PetToy has consumed 0 electricity today. PetToy was used 1 times and was broken for 0 times.
+_____________________ Day 1 _____________________
+All electricity consumed by day 295
+Bicycle was used 40 times and was broken for 1 times.
+Car has consumed 60 electricity today. Car was used 21 times and was broken for 0 times.
+Ski was used 36 times and was broken for 1 times.
+Fridge has consumed 55 electricity today. Fridge was used 35 times and was broken for 0 times.
+Cooker has consumed 15 electricity today. Cooker was used 10 times and was broken for 0 times.
+TV has consumed 40 electricity today. TV was used 15 times and was broken for 0 times.
+PetToy has consumed 18 electricity today. PetToy was used 38 times and was broken for 2 times.
+TV has consumed 31 electricity today. TV was used 11 times and was broken for 1 times.
+PetToy has consumed 18 electricity today. PetToy was used 34 times and was broken for 2 times.
+PetToy has consumed 12 electricity today. PetToy was used 28 times and was broken for 1 times.
+PetFeeder has consumed 15 electricity today. PetFeeder was used 16 times and was broken for 0 times.
+PetFeeder has consumed 0 electricity today. PetFeeder was used 5 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 2 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 2 times and was broken for 0 times.
+Treadmill was used 27 times and was broken for 0 times.
+TV has consumed 31 electricity today. TV was used 8 times and was broken for 1 times.
+Computer has consumed 0 electricity today. Computer was used 1 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+Bicycle was used 22 times and was broken for 1 times.
+Treadmill was used 13 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+PetToy has consumed 0 electricity today. PetToy was used 1 times and was broken for 0 times.
+_____________________ Day 0 _____________________
+All electricity consumed by day 280
+Bicycle was used 51 times and was broken for 1 times.
+Car has consumed 60 electricity today. Car was used 27 times and was broken for 0 times.
+Ski was used 44 times and was broken for 2 times.
+Fridge has consumed 25 electricity today. Fridge was used 40 times and was broken for 1 times.
+Cooker has consumed 20 electricity today. Cooker was used 14 times and was broken for 1 times.
+TV has consumed 43 electricity today. TV was used 19 times and was broken for 3 times.
+PetToy has consumed 20 electricity today. PetToy was used 48 times and was broken for 2 times.
+TV has consumed 21 electricity today. TV was used 13 times and was broken for 2 times.
+PetToy has consumed 16 electricity today. PetToy was used 42 times and was broken for 3 times.
+PetToy has consumed 14 electricity today. PetToy was used 35 times and was broken for 1 times.
+PetFeeder has consumed 12 electricity today. PetFeeder was used 20 times and was broken for 2 times.
+PetFeeder has consumed 6 electricity today. PetFeeder was used 7 times and was broken for 0 times.
+VacuumCleaner has consumed 5 electricity today. VacuumCleaner was used 3 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 2 times and was broken for 0 times.
+Treadmill was used 35 times and was broken for 1 times.
+TV has consumed 22 electricity today. TV was used 10 times and was broken for 2 times.
+Computer has consumed 7 electricity today. Computer was used 2 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+Bicycle was used 26 times and was broken for 0 times.
+Treadmill was used 15 times and was broken for 1 times.
+TV has consumed 11 electricity today. TV was used 1 times and was broken for 1 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+SmartBath has consumed 0 electricity today. SmartBath was used 0 times and was broken for 0 times.
+VacuumCleaner has consumed 0 electricity today. VacuumCleaner was used 0 times and was broken for 0 times.
+TV has consumed 0 electricity today. TV was used 0 times and was broken for 0 times.
+PetToy has consumed 2 electricity today. PetToy was used 2 times and was broken for 0 times.
+
+Total electricity consumption 30781

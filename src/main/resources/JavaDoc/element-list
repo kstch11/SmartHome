@@ -1,0 +1,12 @@
+unnamed package
+config
+factories
+house
+house.commands
+house.devices
+house.devices.states
+households
+households.animals
+households.people
+report
+resources

@@ -1,0 +1,957 @@
+Mom started talking with Mom
+Dad started using BICYCLE
+Granny started using SKI
+Grandpa started playing with CAT
+Kate started using TREADMILL
+Tom started using CAR
+Fillip started using BICYCLE
+Murka started using PET_TOY
+Bobik started using PET_TOY
+Lizard started using TV
+Mom started using TREADMILL
+Grandpa started playing with CAT
+BICYCLE was broken
+Oops! I hope nobody notice that I broke it
+Dad has broken BICYCLE
+Dad read the manual to BICYCLE
+Dad started fixing BICYCLE
+Granny started using FRIDGE
+Fillip started using COOKER
+Murka started using TV
+Bobik started using PET_TOY
+Kate started using VACUUM_CLEANER
+Dad started using SMART_BATH
+Grandpa started playing with CAT
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Granny read the manual to TV
+Granny started fixing TV
+Tom started using BICYCLE
+Lizard started using PET_TOY
+Mom started using SKI
+Bobik started using PET_TOY
+Grandpa started using TREADMILL
+Fillip started using BICYCLE
+Murzik started using PET_TOY
+TV was broken
+Oops! I hope nobody notice that I broke it
+Granny has broken TV
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Granny read the manual to TV
+Granny started fixing TV
+Murka started using PET_TOY
+Lizard started using PET_FEEDER
+Mom read the manual to TV
+Mom started fixing TV
+Kate started using BICYCLE
+Tom started talking with Tom
+Bobik started using PET_TOY
+Dad started using CAR
+Fillip started using SKI
+Murzik started using TV
+Grandpa started using TREADMILL
+Lizard started using PET_TOY
+Granny started using BICYCLE
+Tom started using TREADMILL
+Murka started using PET_TOY
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Kate started using FRIDGE
+Bobik started using TV
+Fillip started using BICYCLE
+Mom started using COOKER
+Lizard started using PET_TOY
+TREADMILL was broken
+Oops! I hope nobody notice that I broke it
+Grandpa has broken TREADMILL
+Granny read the manual to TREADMILL
+Granny started fixing TREADMILL
+Grandpa started using SKI
+Kate started talking with Kate
+Murka started using PET_TOY
+TV was broken
+Murzik has broken TV
+*pretends it hasn't done that*
+Dad read the manual to TV
+Dad started fixing TV
+Tom started using BICYCLE
+Murzik started using TV
+BICYCLE was broken
+Mooooooom! I think I broke something
+Fillip has broken BICYCLE
+Granny read the manual to BICYCLE
+Granny started fixing BICYCLE
+Kate started playing with LIZARD
+Fillip started using TREADMILL
+SKI was broken
+Oops! I hope nobody notice that I broke it
+Grandpa has broken SKI
+Mom read the manual to SKI
+Mom started fixing SKI
+Grandpa started using TREADMILL
+Murka started using PET_TOY
+Bobik started using PET_TOY
+Dad started using CAR
+Granny started using BICYCLE
+Tom started using BICYCLE
+Mom started using SKI
+Kate started using FRIDGE
+Lizard started using PET_TOY
+TV was broken
+Murzik has broken TV
+*pretends it hasn't done that*
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Bobik started using PET_FEEDER
+Granny read the manual to TV
+Granny started fixing TV
+Grandpa started using FRIDGE
+Kate is waiting for activity
+Mom, where is my phone?
+Tom started talking with Kate
+Fillip started using BICYCLE
+Mom started using SKI
+Lizard started using PET_TOY
+PET_FEEDER was broken
+Bobik has broken PET_FEEDER
+*pretends it hasn't done that*
+Bobik started using TV
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_FEEDER
+Dad started fixing PET_FEEDER
+Grandpa read the manual to PET_TOY
+Grandpa started fixing PET_TOY
+Kate started talking with Kate
+Tom started using CAR
+Murzik started using PET_TOY
+Murka started using PET_FEEDER
+TV was broken
+Oops! I hope nobody notice that I broke it
+Granny has broken TV
+Granny read the manual to TV
+Granny started fixing TV
+Fillip started using FRIDGE
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Dad started playing with LIZARD
+Grandpa started using BICYCLE
+Kate started using SKI
+Murka started using PET_TOY
+Mom started talking with Mom
+Fillip started using TREADMILL
+Murzik started using PET_TOY
+Dad started using BICYCLE
+Granny started using FRIDGE
+Lizard started using PET_TOY
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Grandpa read the manual to TV
+Grandpa started fixing TV
+Bobik started using PET_FEEDER
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Kate started using CAR
+Tom started using BICYCLE
+Murka started using PET_FEEDER
+Granny started using SKI
+Murzik started using PET_TOY
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Dad started playing with DOG
+Fillip started using TREADMILL
+Lizard started using PET_TOY
+Grandpa started using BICYCLE
+Murka started using TV
+Mom started talking with Mom
+Tom started using BICYCLE
+Dad started using SKI
+Granny started using TREADMILL
+Murzik started using PET_TOY
+Bobik started using PET_TOY
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Lizard started using TV
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Grandpa started using CAR
+Kate started using TREADMILL
+Fillip started using FRIDGE
+Tom started talking with Tom
+Mom started using BICYCLE
+Dad started playing with CAT
+Bobik started using TV
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Granny read the manual to TV
+Granny started fixing TV
+Fillip started using SKI
+Murka started using PET_TOY
+Tom started using FRIDGE
+Dad started using COOKER
+Kate started using TREADMILL
+Murzik started using COMPUTER
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Mom read the manual to TV
+Mom started fixing TV
+Lizard started using PET_TOY
+Granny started talking with Granny
+Grandpa started using BICYCLE
+Tom started using CAR
+Fillip started using FRIDGE
+Murka started using TV
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Bobik started using PET_TOY
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to TV
+Mom started fixing TV
+Dad read the manual to PET_TOY
+Dad started fixing PET_TOY
+Granny started using FRIDGE
+Kate started using SKI
+Fillip started using TREADMILL
+Lizard started using PET_TOY
+Grandpa is waiting for activity
+I want to sleep
+Dad started using BICYCLE
+Grandpa started using BICYCLE
+Murzik started using TV
+Granny started using FRIDGE
+Bobik started using PET_TOY
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Mom read the manual to TV
+Mom started fixing TV
+Kate started using SKI
+Tom started using TREADMILL
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Fillip started using CAR
+Dad started using BICYCLE
+Granny started using TREADMILL
+Grandpa started using FRIDGE
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Bobik started using PET_FEEDER
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Kate started using COOKER
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Grandpa started using SKI
+Tom started talking with Tom
+Murzik started using PET_FEEDER
+Mom started using FRIDGE
+Dad started using TV
+Bobik started using PET_TOY
+Granny started using BICYCLE
+PET_FEEDER was broken
+Murzik has broken PET_FEEDER
+*pretends it hasn't done that*
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Lizard started using PET_FEEDER
+Mom read the manual to PET_FEEDER
+Mom started fixing PET_FEEDER
+Grandpa started talking with Grandpa
+Kate started talking with Kate
+Tom started talking with Tom
+Fillip started using SKI
+Bobik started using TV
+Mom started using BICYCLE
+Granny started using TREADMILL
+Lizard started using PET_TOY
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Grandpa read the manual to PET_TOY
+Grandpa started fixing PET_TOY
+Kate started talking with Kate
+Tom started using BICYCLE
+Murzik started using PET_TOY
+Murka started using PET_FEEDER
+Dad started using SKI
+Fillip started using TREADMILL
+Grandpa started talking with Grandpa
+Mom started talking with Mom
+Kate started using BICYCLE
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Granny started talking with Granny
+Tom started using CAR
+Murzik started using TV
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Dad read the manual to TV
+Dad started fixing TV
+Grandpa started using FRIDGE
+Bobik started using TV
+Mom started using COOKER
+Fillip started using VACUUM_CLEANER
+Granny started using SMART_BATH
+Kate started talking with Kate
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Grandpa started using BICYCLE
+Dad started using SKI
+Kate started using FRIDGE
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Murzik started using PET_TOY
+Murka started using PET_FEEDER
+Lizard started using PET_FEEDER
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Grandpa read the manual to PET_TOY
+Grandpa started fixing PET_TOY
+Bobik started using PET_TOY
+Mom read the manual to TV
+Mom started fixing TV
+Dad started using BICYCLE
+Kate started using SKI
+Tom is waiting for activity
+Mom, can I play a computer?
+Fillip started using TREADMILL
+PET_FEEDER was broken
+Murka has broken PET_FEEDER
+*pretends it hasn't done that*
+Granny read the manual to PET_FEEDER
+Granny started fixing PET_FEEDER
+Grandpa started using BICYCLE
+Tom started using TREADMILL
+Murka started using TV
+Lizard started using TV
+Murzik started using PET_TOY
+Granny started playing with DOG
+Mom is waiting for activity
+Damn, the salary is coming only in two weeks!
+Dad is waiting for activity
+I want to sleep
+Kate started using BICYCLE
+Mom started using SKI
+Dad started talking with Dad
+Grandpa started talking with Grandpa
+Fillip is waiting for activity
+I wanna eat
+Granny started playing with CAT
+Tom started playing with DOG
+Fillip started talking with Fillip
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Dad read the manual to TV
+Dad started fixing TV
+Grandpa read the manual to TV
+Grandpa started fixing TV
+Kate started using BICYCLE
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Mom started using SKI
+Granny started using CAR
+Tom started using FRIDGE
+Fillip started talking with Fillip
+Murzik started using PET_TOY
+Bobik started using PET_FEEDER
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_TOY
+Dad started fixing PET_TOY
+Grandpa started using FRIDGE
+Kate started playing with CAT
+Tom started playing with DOG
+Fillip started using BICYCLE
+Lizard started using PET_TOY
+Mom started playing with CAT
+Dad started using COOKER
+Grandpa started using SKI
+Kate started using FRIDGE
+Tom started using TV
+Murka started using PET_TOY
+Bobik started using PET_TOY
+Mom started playing with CAT
+Granny started talking with Granny
+Fillip started playing with LIZARD
+Kate started using CAR
+Mom started using BICYCLE
+Dad started using SKI
+Granny started using TREADMILL
+Grandpa started using BICYCLE
+Fillip started using TREADMILL
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Bobik started using PET_TOY
+Lizard started using PET_FEEDER
+Tom started talking with Tom
+Lizard started using PET_FEEDER
+PET_TOY was broken
+Murzik has broken PET_TOY
+*pretends it hasn't done that*
+SKI was broken
+Oops! I hope nobody notice that I broke it
+Dad has broken SKI
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Dad read the manual to SKI
+Dad started fixing SKI
+Grandpa started using BICYCLE
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Bobik started using PET_FEEDER
+Granny started talking with Granny
+Fillip started using FRIDGE
+Mom started using CAR
+Dad started talking with Dad
+Kate started using SKI
+Tom started using TREADMILL
+Lizard started using TV
+PET_FEEDER was broken
+Bobik has broken PET_FEEDER
+*pretends it hasn't done that*
+Bobik started using PET_TOY
+Granny read the manual to PET_FEEDER
+Granny started fixing PET_FEEDER
+Grandpa started talking with Grandpa
+Fillip started talking with Fillip
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Dad started using BICYCLE
+PET_FEEDER was broken
+Oops! I hope nobody notice that I broke it
+Granny has broken PET_FEEDER
+Granny read the manual to PET_FEEDER
+Granny started fixing PET_FEEDER
+Kate started using FRIDGE
+Grandpa started talking with Grandpa
+Tom started using COOKER
+Fillip started using SKI
+Bobik started using PET_TOY
+Granny started using TREADMILL
+Murzik started using TV
+Murka started using PET_TOY
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Mom read the manual to TV
+Mom started fixing TV
+Dad started using CAR
+Kate started talking with Kate
+Lizard started using PET_TOY
+Grandpa is waiting for activity
+I want somebody did my work instead of me...
+Grandpa started using FRIDGE
+Fillip started using BICYCLE
+Bobik started using PET_TOY
+Kate started using SKI
+Tom started using BICYCLE
+Murka started using PET_TOY
+TV was broken
+Oops! I hope nobody notice that I broke it
+Mom has broken TV
+Mom read the manual to TV
+Mom started fixing TV
+Granny started using TREADMILL
+Lizard started using TV
+Grandpa started using TREADMILL
+Fillip started using FRIDGE
+Murzik started using PET_TOY
+Bobik started using PET_TOY
+Dad started playing with CAT
+Kate started using BICYCLE
+Tom started using SKI
+Mom started using BICYCLE
+Granny started using CAR
+Fillip started using TREADMILL
+Dad started using FRIDGE
+Grandpa started using TREADMILL
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Bobik started using PET_TOY
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Lizard started using PET_FEEDER
+Mom read the manual to TV
+Mom started fixing TV
+Kate started talking with Kate
+Tom started using BICYCLE
+Dad started talking with Dad
+PET_TOY was broken
+Murzik has broken PET_TOY
+*pretends it hasn't done that*
+Murzik started using TV
+Murka started using PET_TOY
+Bobik started using PET_TOY
+Lizard started using TV
+Grandpa read the manual to PET_TOY
+Grandpa started fixing PET_TOY
+Kate started using FRIDGE
+Fillip started using SKI
+Mom started using BICYCLE
+Dad started talking with Dad
+Granny started using TREADMILL
+Tom started talking with Tom
+Grandpa started using BICYCLE
+Kate started playing with CAT
+Bobik started using PET_TOY
+Dad is waiting for activity
+...
+Tom started using SKI
+Fillip started using CAR
+Mom is waiting for activity
+...
+Dad started using BICYCLE
+TV was broken
+Murzik has broken TV
+*pretends it hasn't done that*
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Mom read the manual to TV
+Mom started fixing TV
+Granny read the manual to TV
+Granny started fixing TV
+Grandpa started talking with Grandpa
+Kate started using TREADMILL
+Murzik started using TV
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Bobik started using PET_TOY
+Tom started using SKI
+Dad started using FRIDGE
+Grandpa started using BICYCLE
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Granny started using BICYCLE
+Murka started using PET_TOY
+Lizard started using PET_FEEDER
+Kate started playing with DOG
+Fillip started using TREADMILL
+Mom started talking with Mom
+Dad started using SKI
+Tom started using TREADMILL
+Grandpa started using CAR
+Murzik started using PET_TOY
+Lizard started using PET_TOY
+Granny started using BICYCLE
+Kate started playing with CAT
+Bobik started using PET_TOY
+Mom started using FRIDGE
+Dad started using SKI
+Fillip started using COOKER
+Kate started using TREADMILL
+Tom started using BICYCLE
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Lizard started using PET_FEEDER
+Mom started using FRIDGE
+Granny started using BICYCLE
+Bobik started using PET_TOY
+SKI was broken
+Oops! I hope nobody notice that I broke it
+Dad has broken SKI
+Dad read the manual to SKI
+Dad started fixing SKI
+Grandpa started using CAR
+Lizard started using TV
+Mom started playing with CAT
+Tom started using FRIDGE
+Fillip started playing with CAT
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_TOY
+Dad started fixing PET_TOY
+Granny started using BICYCLE
+Kate started talking with Kate
+Bobik started using PET_TOY
+Mom started using SKI
+Dad started using TREADMILL
+Tom started using FRIDGE
+Fillip started playing with CAT
+Murka started using TV
+Kate started using BICYCLE
+Granny started using BICYCLE
+Bobik started using TV
+Grandpa started playing with CAT
+Tom started using CAR
+Fillip started talking with Fillip
+Lizard started using PET_TOY
+Mom started talking with Mom
+Dad is waiting for activity
+Damn, the salary is coming only in two weeks!
+Kate is waiting for activity
+Dad, where is mom?
+Dad started playing with CAT
+Granny started using BICYCLE
+Grandpa started using FRIDGE
+Kate started using SKI
+Fillip started using TREADMILL
+PET_TOY was broken
+Lizard has broken PET_TOY
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Mom started playing with CAT
+Dad started using BICYCLE
+Grandpa started using FRIDGE
+Bobik started using TV
+Granny started talking with Granny
+Kate is waiting for activity
+Mom, where is my phone?
+Tom started using BICYCLE
+Kate started talking with Kate
+Fillip started using CAR
+Murka started using PET_TOY
+Lizard started using PET_TOY
+Mom started playing with CAT
+Grandpa started talking with Grandpa
+Dad started talking with Dad
+Granny started using SKI
+BICYCLE was broken
+Mooooooom! I think I broke something
+Tom has broken BICYCLE
+Mom read the manual to BICYCLE
+Mom started fixing BICYCLE
+Grandpa started using TREADMILL
+Kate started using BICYCLE
+Tom started using TREADMILL
+Murzik started using PET_TOY
+Murka started using TV
+Lizard started using PET_TOY
+Dad started using FRIDGE
+Bobik started using PET_TOY
+Mom started using BICYCLE
+Granny started using SKI
+Fillip started using CAR
+PET_TOY was broken
+Murzik has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_TOY
+Dad started fixing PET_TOY
+Kate started playing with CAT
+Lizard started using TV
+Grandpa started using TREADMILL
+Tom started using BICYCLE
+Bobik started using PET_TOY
+Mom started using BICYCLE
+Dad started using FRIDGE
+Granny is waiting for activity
+I want to sleep
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Granny read the manual to TV
+Granny started fixing TV
+Kate started playing with CAT
+Murka started using TV
+BICYCLE was broken
+Mooooooom! I think I broke something
+Tom has broken BICYCLE
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to BICYCLE
+Dad started fixing BICYCLE
+Bobik started using PET_TOY
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Grandpa started using BICYCLE
+Kate started using CAR
+Tom started using FRIDGE
+Fillip started using COOKER
+Murzik started using PET_TOY
+Dad started using SKI
+Granny started using TREADMILL
+Lizard started using PET_FEEDER
+Mom started using BICYCLE
+Tom started using TREADMILL
+Bobik started using PET_TOY
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Grandpa read the manual to TV
+Grandpa started fixing TV
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Lizard started using PET_FEEDER
+Dad started using FRIDGE
+Fillip started using COOKER
+Mom started using TV
+Granny started using TV
+Kate started using BICYCLE
+Bobik started using PET_TOY
+Lizard started using PET_FEEDER
+Dad started using SKI
+Grandpa started using TREADMILL
+Tom started using BICYCLE
+Murzik started using PET_TOY
+Murka started using TV
+PET_FEEDER was broken
+Lizard has broken PET_FEEDER
+*pretends it hasn't done that*
+Lizard started using COMPUTER
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Bobik started using TV
+PET_TOY was broken
+Murzik has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_FEEDER
+Dad started fixing PET_FEEDER
+Murzik started using PET_TOY
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Granny read the manual to PET_TOY
+Granny started fixing PET_TOY
+Grandpa started using CAR
+Kate started using BICYCLE
+Tom is waiting for activity
+Mom, can I play a computer?
+Fillip started using SKI
+Dad started using TREADMILL
+Tom started using BICYCLE
+PET_TOY was broken
+Oops! I hope nobody notice that I broke it
+Granny has broken PET_TOY
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Granny read the manual to TV
+Granny started fixing TV
+Murka started using PET_TOY
+Murzik started using TV
+Mom started playing with LIZARD
+Kate started using BICYCLE
+Fillip started using SKI
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Bobik started using PET_TOY
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to TV
+Dad started fixing TV
+Granny read the manual to PET_TOY
+Granny started fixing PET_TOY
+Tom started using TREADMILL
+Murka started using PET_TOY
+Mom started using BICYCLE
+Grandpa started using TREADMILL
+Lizard started using PET_FEEDER
+Granny started talking with Granny
+Kate started using BICYCLE
+Fillip started using SKI
+PET_TOY was broken
+Bobik has broken PET_TOY
+*pretends it hasn't done that*
+Bobik started using PET_TOY
+PET_TOY was broken
+Murka has broken PET_TOY
+*pretends it hasn't done that*
+Dad read the manual to PET_TOY
+Dad started fixing PET_TOY
+Murzik started using PET_FEEDER
+Murka started using PET_FEEDER
+Lizard started using PET_TOY
+Mom read the manual to PET_TOY
+Mom started fixing PET_TOY
+Granny started using CAR
+Tom started using TREADMILL
+Dad started using BICYCLE
+Grandpa started using FRIDGE
+Kate started using SKI
+Fillip started using COOKER
+Mom started talking with Mom
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Bobik started using TV
+Lizard started using PET_TOY
+FRIDGE was broken
+Oops! I hope nobody notice that I broke it
+Grandpa has broken FRIDGE
+Grandpa read the manual to FRIDGE
+Grandpa started fixing FRIDGE
+TREADMILL was broken
+Mooooooom! I think I broke something
+Tom has broken TREADMILL
+Mom read the manual to TREADMILL
+Mom started fixing TREADMILL
+Dad is waiting for activity
+I want to sleep
+Kate started talking with Dad
+Tom started using BICYCLE
+COOKER was broken
+Mooooooom! I think I broke something
+Fillip has broken COOKER
+Murzik started using PET_TOY
+Murka started using PET_TOY
+Granny read the manual to COOKER
+Granny started fixing COOKER
+Grandpa started using CAR
+Fillip started using SKI
+Lizard started using PET_TOY
+Mom is waiting for activity
+I want somebody did my work instead of me...
+Dad started talking with Mom
+Kate started using TREADMILL
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Granny read the manual to TV
+Granny started fixing TV
+Tom started using BICYCLE
+Bobik started using PET_FEEDER
+Murzik started using PET_TOY
+Murka started using PET_TOY
+SKI was broken
+Mooooooom! I think I broke something
+Fillip has broken SKI
+Mom read the manual to SKI
+Mom started fixing SKI
+Dad started using BICYCLE
+Fillip started using FRIDGE
+Lizard started using PET_TOY
+PET_FEEDER was broken
+Bobik has broken PET_FEEDER
+*pretends it hasn't done that*
+Bobik started using PET_FEEDER
+SKI was broken
+Oops! I hope nobody notice that I broke it
+Mom has broken SKI
+Mom read the manual to PET_FEEDER
+Mom started fixing PET_FEEDER
+Granny read the manual to SKI
+Granny started fixing SKI
+Kate started using BICYCLE
+Tom started using COOKER
+Grandpa started using TREADMILL
+Fillip started using TREADMILL
+Murzik started using PET_TOY
+Murka started using TV
+Mom started playing with DOG
+Dad started talking with Dad
+Granny started using CAR
+Lizard started using TV
+Kate started using FRIDGE
+Mom started using COOKER
+Dad started using BICYCLE
+Tom started using VACUUM_CLEANER
+Murzik started using PET_TOY
+Bobik started using TV
+TREADMILL was broken
+Mooooooom! I think I broke something
+Fillip has broken TREADMILL
+Grandpa read the manual to TREADMILL
+Grandpa started fixing TREADMILL
+Fillip started using SKI
+Kate started using TREADMILL
+TV was broken
+Murka has broken TV
+*pretends it hasn't done that*
+Murka started using PET_TOY
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Dad read the manual to TV
+Dad started fixing TV
+Granny read the manual to TV
+Granny started fixing TV
+Grandpa started using BICYCLE
+Murzik started using PET_TOY
+Lizard started using PET_TOY
+Mom is waiting for activity
+I want somebody did my work instead of me...
+Fillip started using SKI
+Mom started using CAR
+TV was broken
+Bobik has broken TV
+*pretends it hasn't done that*
+Murka started using PET_TOY
+Bobik started using PET_FEEDER
+Dad read the manual to TV
+Dad started fixing TV
+Granny started using FRIDGE
+Grandpa started using BICYCLE
+Kate started using TREADMILL
+Tom started using BICYCLE
+Murzik started using TV
+Lizard started using TV
+Fillip started using COOKER
+Bobik started using PET_TOY
+Granny started using FRIDGE
+Murka started using PET_TOY
+BICYCLE was broken
+Oops! I hope nobody notice that I broke it
+Grandpa has broken BICYCLE
+Dad read the manual to BICYCLE
+Dad started fixing BICYCLE
+Grandpa is waiting for activity
+I want somebody did my work instead of me...
+Tom started talking with Grandpa
+Mom started using CAR
+Kate is waiting for activity
+Dad, where is mom?
+Dad started using BICYCLE
+Granny started using SKI
+Kate started using TREADMILL
+Fillip started talking with Fillip
+Bobik started using PET_TOY
+TV was broken
+Murzik has broken TV
+*pretends it hasn't done that*
+TV was broken
+Lizard has broken TV
+*pretends it hasn't done that*
+Grandpa read the manual to TV
+Grandpa started fixing TV
+Murzik started using PET_TOY
+Murka started using TV
+Lizard started using PET_TOY
